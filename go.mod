@@ -1,3 +1,3 @@
-module github.com/PavelLaktn/utils/v2
+module github.com/PavelLaktn/utils/v3
 
 go 1.15
